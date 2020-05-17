@@ -1,0 +1,18 @@
+C:\Users\Michael\Desktop\CarRacing\CarRacing\bin\Debug\CarRacing.exe.config
+C:\Users\Michael\Desktop\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+C:\Users\Michael\Desktop\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+C:\Users\Michael\Desktop\CarRacing\CarRacing\obj\Debug\CarRacing.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\CarRacing\CarRacing\obj\Debug\CarRacing.Form1.resources
+C:\Users\Michael\Desktop\CarRacing\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+C:\Users\Michael\Desktop\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.GenerateResource.cache
+C:\Users\Michael\Desktop\CarRacing\CarRacing\obj\Debug\CarRacing.exe
+C:\Users\Michael\Desktop\CarRacing\CarRacing\obj\Debug\CarRacing.pdb
+C:\Users\Michael\Desktop\На сегодня\CarRacing\CarRacing\bin\Debug\CarRacing.exe.config
+C:\Users\Michael\Desktop\На сегодня\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+C:\Users\Michael\Desktop\На сегодня\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+C:\Users\Michael\Desktop\На сегодня\CarRacing\CarRacing\obj\Debug\CarRacing.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\На сегодня\CarRacing\CarRacing\obj\Debug\CarRacing.Form1.resources
+C:\Users\Michael\Desktop\На сегодня\CarRacing\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+C:\Users\Michael\Desktop\На сегодня\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.GenerateResource.cache
+C:\Users\Michael\Desktop\На сегодня\CarRacing\CarRacing\obj\Debug\CarRacing.exe
+C:\Users\Michael\Desktop\На сегодня\CarRacing\CarRacing\obj\Debug\CarRacing.pdb
